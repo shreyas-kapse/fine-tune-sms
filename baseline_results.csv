@@ -1,2 +1,2 @@
-model,accuracy,precision,recall,f1
-TF-IDF + Logistic Regression,0.965183752417795,1.0,0.7230769230769231,0.8392857142857143
+,model,majority_class,accuracy,f1
+0,Majority Class,0,0.8655913978494624,0.0
